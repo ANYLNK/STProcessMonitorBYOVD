@@ -12,7 +12,7 @@ Usage:
 
  Screenshots
 
-Exploit CVE-2025-70795
+Exploit CVE-2025-70795 (Please notice that the '/Kill' operate is without any priviledge)
  <img width="1015" height="528" alt="屏幕截图 2026-02-14 200828" src="https://github.com/user-attachments/assets/e58fc75c-6b08-40a5-8168-b1890e8e79bb" />
 <img width="758" height="470" alt="屏幕截图 2026-02-14 201224" src="https://github.com/user-attachments/assets/a4fc8777-d177-4015-9782-b73c105d70f0" />
 
