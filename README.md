@@ -16,7 +16,7 @@ Exploit CVE-2025-70795 / CVE-2026-0828 (Please notice that the '/Kill' operate i
  <img width="1015" height="528" alt="屏幕截图 2026-02-14 200828" src="https://github.com/user-attachments/assets/e58fc75c-6b08-40a5-8168-b1890e8e79bb" />
 <img width="758" height="470" alt="屏幕截图 2026-02-14 201224" src="https://github.com/user-attachments/assets/a4fc8777-d177-4015-9782-b73c105d70f0" />
 
-The updated driver verifys if the control code is from an NT Authority/SYSTEM process, so we need to get at least Administrator priviledge to use the new driver.
+The updated driver verifys if the control code is from an NT AUTHORITY\SYSTEM process, so we need to get at least Administrator priviledge to use the new driver.
 
 <img width="1893" height="1019" alt="160139uqz99h29c96anwyg" src="https://github.com/user-attachments/assets/1c8d69d0-a186-4f66-8faf-a01d82339a26" />
 <img width="747" height="374" alt="屏幕截图 2026-02-14 201729" src="https://github.com/user-attachments/assets/e2ce3486-619f-4237-bc4e-9b2fb20c34b1" />
